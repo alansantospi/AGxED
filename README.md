@@ -1,5 +1,5 @@
 # GAxDE
-
+<img src="https://github.com/PyvesB/alexa-revolutionary-calendar/raw/master/images/english.png?raw=true" alt="" style="max-width:100%;">
 This project is an experiment to compare the efficiency of evolutionary algorithms using the approaches of Genetic Algorithms (GA) and Differential Evolution (DE) in the optimization of the following Benchmark functions: Rosenbrock, Zakharov and Schwefel. To analyze the results, the t-test was used.
 
 To run the tests, you must execute the execution.R file
